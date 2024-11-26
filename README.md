@@ -35,9 +35,11 @@ Figure -02 HALF Subtractor
 
 *Truthtable*
 
-![WhatsApp Image 2024-11-26 at 17 08 47_1ec02758](https://github.com/user-attachments/assets/31527d4e-8940-458a-8c22-bd8356165ac8)
+![WhatsApp Image 2024-11-26 at 17 08 51_b073ab81](https://github.com/user-attachments/assets/cb221933-0f43-4a10-8337-196b58927684)
 
-![WhatsApp Image 2024-11-26 at 17 08 47_96342e37](https://github.com/user-attachments/assets/7fcf3e94-4d2f-4e4e-a113-9dcbdd58503f)
+
+![WhatsApp Image 2024-11-26 at 17 08 51_fa9ad4d2](https://github.com/user-attachments/assets/7f345d8a-c612-4ae7-87d3-cc27265961bf)
+
 
 
 *Procedure*
@@ -65,23 +67,28 @@ RegisterNumber:24901185
 
 HALF ADDER
 
-![WhatsApp Image 2024-11-26 at 17 09 59_83affbb4](https://github.com/user-attachments/assets/7d59bc14-f5fb-4174-8bc0-ccfe9c4c9c45)
+![WhatsApp Image 2024-11-26 at 17 10 02_f03b5f72](https://github.com/user-attachments/assets/80393421-3e6e-4056-a4f8-de82d9e82422)
+
 
 HALF SUBTRACTER
 
-![WhatsApp Image 2024-11-26 at 17 09 59_7e174266](https://github.com/user-attachments/assets/a23dc3b2-b412-4ec6-a906-dd5d943254da)
+![WhatsApp Image 2024-11-26 at 17 10 02_f56b05a8](https://github.com/user-attachments/assets/dcb67e1c-4271-468f-ace8-e50af394221c)
+
 
 
 *Output/TIMING Waveform*
 
 HALF ADDER
 
-![WhatsApp Image 2024-11-26 at 17 09 59_37c3539e](https://github.com/user-attachments/assets/6a68b5f1-6083-4956-95b2-6333f947b6c3)
+![WhatsApp Image 2024-11-26 at 17 10 02_253d6417](https://github.com/user-attachments/assets/5b9b5ff3-0819-4f63-81ad-9cb5adf876cd)
+
 
 
 HALF SUBTRACTER
 
-![WhatsApp Image 2024-11-26 at 17 09 59_754c796d](https://github.com/user-attachments/assets/5c9f5ee1-34eb-491a-8266-ec81f1e9a177)
+![WhatsApp Image 2024-11-26 at 17 10 02_ab26a96e](https://github.com/user-attachments/assets/a66ea437-7fa1-4bb8-9764-b3554a390c35)
+
+
 
 
 *Result:*
